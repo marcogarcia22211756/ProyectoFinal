@@ -1,6 +1,6 @@
 [![Open in MATLAB Online]
 
-# Proyecto final: Enfisema pulmonar
+# Proyecto final: Rinitis alérgica
 
 ## Información del estudiante
 
