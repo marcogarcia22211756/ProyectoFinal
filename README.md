@@ -1,10 +1,10 @@
 [![Open in MATLAB Online]
 
-# Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
+# Proyecto final: Enfisema pulmonar
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Marco A. Garcia Montilla [22211756], Jose D. Ramirez Ruiz [], Antonio Lopez Reyes [], Valeria Camacho [] 
 
 Modelado de Sistemas Fisiológicos
 
@@ -28,29 +28,20 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
  
 
 ## Descripción detallada del sistema
+El sistema respiratorio superior puede representarse mediante un modelo fisiológico que incluye las cavidades nasales, la mucosa nasal, los cornetes, las vías aéreas superiores y el flujo que se dirige posteriormente hacia la faringe y la tráquea. En condiciones normales, el aire inspirado pasa a través de los conductos nasales con una resistencia baja, gracias al diámetro adecuado de los pasajes y al estado no inflamado de la mucosa. El flujo de aire en esta región depende principalmente de la resistencia mecánica ofrecida por la cavidad nasal y de la elasticidad del tejido mucoso que responde a las variaciones de presión generadas durante la respiración.
 
-El siguiente modelo matemático de tres EDOs de primer orden es un modelo mecanicista de compartimento para la eritropoyesis después de la pérdida de sangre en personas sanas, fenómeno que se puede modelizar como un proceso dinámico no lineal.  Con respecto a los parámetros, X0 refleja la cantidad absoluta de células que se destinan al linaje eritroide y que maduran en el primer compartimento de células precursoras eritroides. Las tasas de transición y las tasas de mortalidad entre los compartimentos están dadas por k1, k2 y , estas tasas son independientes de la hormona eritropoyetina. La compensación de la pérdida de sangre se describe mediante un término de retroalimentación de los eritrocitos a las células en proliferación basado en la pérdida fraccional de eritrocitos. Con base en lo anterior, se introducen los parámetros y , que se utilizan para la descripción de las características individuales de la eritropoyesis. Se asume que cada individuo tiene un recuento medio de eritrocitos indicado por el parámetro Base.
-
-El sistema se resolvió con los siguientes parámetros de gamma y beta: 
-1. gamma = [0.769, 0.388, 0.510, 0.590, 0.262, 0.324, 0.356, 0.089, 0.243, 0.057];
-2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
-
-y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
-
-
-
-Palabras clave: ?; ?; ?; ?; ?.
+En un individuo sano, la mucosa nasal presenta un grosor normal y una mínima producción de secreciones, lo que permite que el aire circule libremente. La resistencia nasal es baja, por lo que las presiones generadas en la entrada del aire (P_in) y las que se transmiten hacia la faringe (P_out) producen un flujo adecuado sin necesidad de grandes diferencias de presión. Esto asegura una ventilación estable y eficiente a través de las vías respiratorias superiores.
 
 ## Lista de archivos incluidos en el repositorio
-
-1. Cuaderno computacional de MATLAB \[.mlx].
-2. Imágenes de las simulaciones \[.pdf y .png].
+Cuaderno computacional de MATLAB [.mlx].
+Modelo de Simulink [.slx].
+Archivos de Spyder [.py].
+Imagen con los parámetros del controlador.
+Imágenes de las simulaciones [.pdf y .png].
+Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
 
 ## Referencias
 
-[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
+[1] G. Ciprandi, M. Cirillo, A. Pistorio, y G. La Rosa, “Nasal resistance and allergic inflammation depend on allergen type,” International Journal of Immunopathology and Pharmacology, vol. 19, no. 3, pp. 551–559, 2006.
 
-[2]  M. Tetschke, P. Lilienthal, T. Pottgiesser, T. Fischer, E. Schalk & S. Sager, Mathematical Modeling of RBC Count Dynamics after Blood Loss , Processes, vol. 6, issue 9, Sep 2018. https://doi.org/10.3390/pr6090157
+[2] T. Kawamoto et al., “Nasal obstruction in patients with seasonal allergic rhinitis: Relationships between allergic inflammation and nasal airflow,” Journal of Allergy and Clinical Immunology, vol. 113, no. 4, pp. 627–631, 2004.
