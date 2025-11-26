@@ -33,12 +33,12 @@ El sistema respiratorio superior puede representarse mediante un modelo fisioló
 En un individuo sano, la mucosa nasal presenta un grosor normal y una mínima producción de secreciones, lo que permite que el aire circule libremente. La resistencia nasal es baja, por lo que las presiones generadas en la entrada del aire (P_in) y las que se transmiten hacia la faringe (P_out) producen un flujo adecuado sin necesidad de grandes diferencias de presión. Esto asegura una ventilación estable y eficiente a través de las vías respiratorias superiores.
 
 ## Lista de archivos incluidos en el repositorio
-Cuaderno computacional de MATLAB [.mlx].
-Modelo de Simulink [.slx].
-Archivos de Spyder [.py].
-Imagen con los parámetros del controlador.
-Imágenes de las simulaciones [.pdf y .png].
-Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
+1. Cuaderno computacional de MATLAB [.mlx].
+2. Modelo de Simulink [.slx].
+3. Archivos de Spyder [.py].
+4. Imagen con los parámetros del controlador.
+5. Imágenes de las simulaciones [.pdf y .png].
+6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
 
 ## Referencias
 
