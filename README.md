@@ -32,6 +32,8 @@ El sistema respiratorio superior puede representarse mediante un modelo fisioló
 
 En un individuo sano, la mucosa nasal presenta un grosor normal y una mínima producción de secreciones, lo que permite que el aire circule libremente. La resistencia nasal es baja, por lo que las presiones generadas en la entrada del aire (P_in) y las que se transmiten hacia la faringe (P_out) producen un flujo adecuado sin necesidad de grandes diferencias de presión. Esto asegura una ventilación estable y eficiente a través de las vías respiratorias superiores.
 
+En la rinitis alérgica, ocurre un proceso inflamatorio de la mucosa nasal desencadenado por la exposición a alérgenos como polvo, polen o caspa de animales. Este proceso produce un aumento del grosor de la mucosa, congestión de los cornetes y una mayor secreción de moco.
+
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Modelo de Simulink [.slx].
