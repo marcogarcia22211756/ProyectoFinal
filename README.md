@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Marco A. Garcia Montilla [22211756], Jose D. Ramirez Ruiz [22212268], Antonio Lopez Reyes [], Valeria Camacho [] 
+Marco A. Garcia Montilla [22211756], Jose D. Ramirez Ruiz [22212268], Antonio Lopez Reyes [22212262], Valeria Camacho [C22211475] 
 
 Modelado de Sistemas Fisiológicos
 
