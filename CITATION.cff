@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: lenguaje m
+type: software
+authors:
+  - given-names: Jose David
+    family-names: Ramirez R.
+    affiliation: TECNM-ITT
+    email: l22212268@tectijuana.edu.mx
+  - given-names: Marco Antonio
+    family-names: Garcia M.
+    affiliation: TECNM-ITT
+    email: l22211756@tectijuana.edu.mx
+  - given-names: Valeria
+    family-names: Camacho L.
+    affiliation: TECNM-ITT
+    email: l22211475@tectijuana.edu.mx
+  - given-names: Antonio
+    family-names: Lopez R.
+    email: l22212262@tectijuana.edu.mx
+    affiliation: TECNM-ITT
+repository-code: 'https://github.com/marcogarcia22211756/ProyectoFinal'
+keywords:
+  - Rinitis
+  - Sistema de Ecuaciones
+  - EDOs
+  - Sistema Respiratorio
+  - Modelo Matematico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-12-03'
