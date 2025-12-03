@@ -34,6 +34,9 @@ En un individuo sano, la mucosa nasal presenta un grosor normal y una mínima pr
 
 En la rinitis alérgica, ocurre un proceso inflamatorio de la mucosa nasal desencadenado por la exposición a alérgenos como polvo, polen o caspa de animales. Este proceso produce un aumento del grosor de la mucosa, congestión de los cornetes y una mayor secreción de moco.
 
+Palabras clave: Modelo matemático, EDOS, Rinitis, Sistema Respiratorio, Sistema de ecuaciones.
+
+
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Modelo de Simulink [.slx].
