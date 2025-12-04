@@ -29,8 +29,9 @@ El modelizado de sistemas fisiológicos es una herramienta importante en Ingenie
 La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estudios de la carrera en Ingeniería Biomédica con la siguiente competencia general del curso: Utiliza las propiedades de los circuitos RLC para describir la dinámica de sistemas fisiológicos, obtener modelos matemáticos y aplicar el control clásico, esto con el objetivo de integrar los principios de la Ingeniería de Control, la Electrónica Analógica y las Ciencias de la Computación con la Anatomía y Fisiología del cuerpo humano para proporcionar descripciones cuantitativas y cualitativas de sistemas fisiológicos complejos con el objetivo de modelizar, analizar, controlar, ilustrar y predecir su dinámica tanto en el corto como en el largo plazo.
 
 ## Objetivos
-1. Resolver el sistema de EDOs mediante el método de Euler.
-2. Graficar el caso con transfusión sanguínea y sin transfusión sanguínea del individuo.
+1.-Representar de forma electrónica cómo se comporta la rinitis alérgica usando un modelo sencillo.
+2.-Resolver el modelo matemático con un método numérico para mostrar cómo cambia la enfermedad con el tiempo.
+3.-Comparar el comportamiento del sistema cuando hay rinitis alérgica y cuando no la hay mediante gráficas.
  
 
 ## Descripción detallada del sistema
