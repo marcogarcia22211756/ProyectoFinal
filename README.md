@@ -2,7 +2,7 @@
 
 # Proyecto final: Rinitis alérgica
 
-## Información del estudiante
+## Información de los estudiantes
 
 Marco A. Garcia Montilla [22211756], l22211756@tectijuana.edu.mx
 
