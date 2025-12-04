@@ -4,13 +4,13 @@
 
 ## Información del estudiante
 
-Marco A. Garcia Montilla [22211756], 
+Marco A. Garcia Montilla [22211756], l22211756@tectijuana.edu.mx
 
-Jose D. Ramirez Ruiz [22212268], 
+Jose D. Ramirez Ruiz [22212268], l22212268@tectijuana.edu.mx
 
-Antonio Lopez Reyes [22212262], 
+Antonio Lopez Reyes [22212262], l22212262@tectijuana.edu.mx
 
-Valeria Camacho [C22211475] 
+Valeria Camacho [C22211475] l22211475@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
