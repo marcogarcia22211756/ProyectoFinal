@@ -30,7 +30,9 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 ## Objetivos
 1.-Representar de forma electrónica cómo se comporta la rinitis alérgica usando un modelo sencillo.
+
 2.-Resolver el modelo matemático con un método numérico para mostrar cómo cambia la enfermedad con el tiempo.
+
 3.-Comparar el comportamiento del sistema cuando hay rinitis alérgica y cuando no la hay mediante gráficas.
  
 
@@ -56,3 +58,5 @@ Palabras clave: Modelo matemático, EDOS, Rinitis, Sistema Respiratorio, Sistema
 [1] G. Ciprandi, M. Cirillo, A. Pistorio, y G. La Rosa, “Nasal resistance and allergic inflammation depend on allergen type,” International Journal of Immunopathology and Pharmacology, vol. 19, no. 3, pp. 551–559, 2006.
 
 [2] T. Kawamoto et al., “Nasal obstruction in patients with seasonal allergic rhinitis: Relationships between allergic inflammation and nasal airflow,” Journal of Allergy and Clinical Immunology, vol. 113, no. 4, pp. 627–631, 2004.
+
+[3] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
