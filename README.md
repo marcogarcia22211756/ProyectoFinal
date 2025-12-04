@@ -4,7 +4,13 @@
 
 ## Información del estudiante
 
-Marco A. Garcia Montilla [22211756], Jose D. Ramirez Ruiz [22212268], Antonio Lopez Reyes [22212262], Valeria Camacho [C22211475] 
+Marco A. Garcia Montilla [22211756], 
+
+Jose D. Ramirez Ruiz [22212268], 
+
+Antonio Lopez Reyes [22212262], 
+
+Valeria Camacho [C22211475] 
 
 Modelado de Sistemas Fisiológicos
 
@@ -40,10 +46,9 @@ Palabras clave: Modelo matemático, EDOS, Rinitis, Sistema Respiratorio, Sistema
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Modelo de Simulink [.slx].
-3. Archivos de Spyder [.py].
-4. Imagen con los parámetros del controlador.
-5. Imágenes de las simulaciones [.pdf y .png].
-6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
+3. Imagen con los parámetros del controlador.
+4. Imágenes de las simulaciones [.pdf y .png].
+5. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
 
 ## Referencias
 
