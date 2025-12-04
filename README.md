@@ -29,12 +29,12 @@ El modelizado de sistemas fisiológicos es una herramienta importante en Ingenie
 La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estudios de la carrera en Ingeniería Biomédica con la siguiente competencia general del curso: Utiliza las propiedades de los circuitos RLC para describir la dinámica de sistemas fisiológicos, obtener modelos matemáticos y aplicar el control clásico, esto con el objetivo de integrar los principios de la Ingeniería de Control, la Electrónica Analógica y las Ciencias de la Computación con la Anatomía y Fisiología del cuerpo humano para proporcionar descripciones cuantitativas y cualitativas de sistemas fisiológicos complejos con el objetivo de modelizar, analizar, controlar, ilustrar y predecir su dinámica tanto en el corto como en el largo plazo.
 
 ## Objetivos
-1.-Representar de forma electrónica cómo se comporta la rinitis alérgica usando un modelo sencillo.
-
-2.-Resolver el modelo matemático con un método numérico para mostrar cómo cambia la enfermedad con el tiempo.
-
-3.-Comparar el comportamiento del sistema cuando hay rinitis alérgica y cuando no la hay mediante gráficas.
- 
+1. Calcular la función de transferencia.
+2. Determinar el modelo de ecuaciones integro-diferenciales.
+3. Establecer el sistema de ecuaciones diferenciales ordinarias lineales de tercer orden.
+4. Emular la respuesta del circuito RLC en Simulink/Simscape al escalón.
+5. Simular la respuesta de los modelos matemáticos en Simulink/MATLAB al escalón.
+6. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema.
 
 ## Descripción detallada del sistema
 El sistema respiratorio superior puede representarse mediante un modelo fisiológico que incluye las cavidades nasales, la mucosa nasal, los cornetes, las vías aéreas superiores y el flujo que se dirige posteriormente hacia la faringe y la tráquea. En condiciones normales, el aire inspirado pasa a través de los conductos nasales con una resistencia baja, gracias al diámetro adecuado de los pasajes y al estado no inflamado de la mucosa. El flujo de aire en esta región depende principalmente de la resistencia mecánica ofrecida por la cavidad nasal y de la elasticidad del tejido mucoso que responde a las variaciones de presión generadas durante la respiración.
